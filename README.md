@@ -16,7 +16,7 @@ I hereby state, to the best of my knowledge and belief, that I have not programm
 | `android.permission.WRITE_EXTERNAL_STORAGE` | For you to be able to delete songs from the app. Used by Android 10 and lower. |
 | `android.permission.WAKE_LOCK` and `android.permission.FOREGROUND_SERVICE` | Needed for background playback and system player (the one on the lock screen) to work properly. |
 | `android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS` | Optional. The app works fine without it, but you may grant it to be absolutely
-sure the system won't kill app while playing in background.|
+sure the system won\'t kill app while playing in background.|
 
  <hr style="border:1px solid gray">
 
